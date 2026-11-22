@@ -70,4 +70,4 @@ These images are **cropped directly from our original project presentation** and
 
 ## Background and attribution
 
-This was a **collaborative course project** at Saarland University by **Leen Ajjan Alhadid and Dua Shahid**. The figures come from the original group presentation. Please cite the original projects/tools used, including [nf-core/rnaseq](https://nf-co.re/rnaseq), [edgeR](https://bioconductor.org/packages/edgeR/), [MultiQC](https://multiqc.info/) and [BEDTools](https://bedtools.readthedocs.io/).
+This was a **collaborative course project** at Saarland University. The figures come from the original group presentation. Please cite the original projects/tools used, including [nf-core/rnaseq](https://nf-co.re/rnaseq), [edgeR](https://bioconductor.org/packages/edgeR/), [MultiQC](https://multiqc.info/) and [BEDTools](https://bedtools.readthedocs.io/).
