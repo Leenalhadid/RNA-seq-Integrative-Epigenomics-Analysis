@@ -1,7 +1,7 @@
 # RNA-seq and integrative epigenomics | mouse kidney and liver
 
 **Course project — Computational Methods for Epigenome Analysis, Saarland University**  
-**Contributors:** Leen Ajjan Alhadid and Dua Shahid
+
 
 ## Overview
 
